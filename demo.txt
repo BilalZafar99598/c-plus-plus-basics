@@ -1,0 +1,72 @@
+C++ is a pure programming language that use different concepts like 
+variables, datatypes, functions, loops, OOP, If-Else Statment and many more
+Decision Ability
+Output result
+Game Development C++ 
+Python purly based on C++ programming 
+C++ is very powerful programming 
+and its high level programming language.
+C++ is a Compiler Based programming language 
+Interpreter and Compiler
+Compiler will execute our whole
+
+Programming Fundamental in C++:
+1. Variables 
+2. Loops
+so on
+
+int a = 10; 
+Line of Code, Program, 
+
+
+Syntax:
+    A set of rules that how to write a code in a programming language
+
+Variables:
+    datatype variable_name = varaible_value;
+    Statment Terminator is semicolon.
+    = this is assignment operator in C++
+    variable_name its user_define variable
+    There are some rule for variable naming.
+    1. We cannot use number at the start of name. like 3A invalid, A3 is valid
+    2. space between words not allow. example first name this is invalid and firstname is valid name 
+    3. hypen is not allow between words for variable names. example "first-name" invalid and valid is "first_name" 
+    4. Special Characters cannot use for the varialbe name. %, $ 
+    5. We can use underscore (_) at the start.
+
+    Brackets in Programming:
+    1. Curly Brackets { }
+    2. Square Brackets [ ]
+    3. Parathesis ( )
+    4. Angular Brackets < >
+
+    In C++ there are many Reserved Words that use for specific purpose.
+    KeyWords and Reserved Words both are same 
+    Like int, float, double, bool, return, if, else, for, while, switch and many more 
+
+    int double1 = 1; This is valid name
+    int double = 3.1445545 Invalid name
+
+    Variables:
+        Varaible Declaration:
+            Variable Declaration is just like to create a new variable
+            int x;
+
+        Variable Initialization:
+            Variable Initialization is to pass or assign some value to a variable is known as variable Initialization
+            x = 20;
+
+            int x = 50;
+            We will us If-Else Statements using Logical operator
+            if else
+            >=, <=, ==, !=, These are comparison operator in C++
+            
+
+
+
+
+
+
+
+
+
